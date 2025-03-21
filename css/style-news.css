@@ -1,0 +1,17 @@
+.post-detail__img-box{
+    border-radius: 8px;
+    overflow: hidden;
+    margin-top: 50px;
+  }
+
+  .post-detail__img-box img{
+    display: block;
+  }
+
+  .post__box{
+    padding: 50px;
+  }
+
+  .post__box{
+    padding: 50px;
+  }
